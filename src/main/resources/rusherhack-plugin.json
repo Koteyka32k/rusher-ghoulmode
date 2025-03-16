@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "net.koteyka32k.ghoulmode.GhoulModePlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Plugin for rusherhack that allows you to stay in loaded chunks after death, you can view things but not interact with things while \"dead\"." ,
+  "URL": "https://github.com/Koteyka32k/rusher-ghoulmode",
+  "Authors": [
+    "Koteyka32k"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
